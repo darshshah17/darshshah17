@@ -8,7 +8,4 @@ I'm Darsh Shah, a software engineering student at the University of Waterloo. <b
 ![](https://github-readme-streak-stats.herokuapp.com/?user=darshshah17&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darshshah17&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=darshshah17&icon=2&color=6)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
