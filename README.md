@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 About Me:
 I'm Darsh Shah, a software engineering student at the University of Waterloo. <br><br>I love to conceptualize and execute ideas that I believe will have a meaningful impact on society. My passion lies in both AI/ML engineering and front-end development, which I'm integrating to develop a mood detection platform that identifies emotion from audio clips. Outside of school and work, I enjoy playing sports, travelling, and meeting new people!<br><br>Learn more about me on my website: https://darshshah.ca/.
 
 
